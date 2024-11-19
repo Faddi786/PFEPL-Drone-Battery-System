@@ -22,27 +22,18 @@ o	Access data submitted through the Drone Battery Management Android App, ensuri
 
 4.	Secure Access:
 
-o	Role-based access to ensure only authorized personnel can manage resources or generate reports.
+  o	Role-based access to ensure only authorized personnel can manage resources or generate reports.
 ________________________________________
 🚀 How It Works
 
 1.	Data Collection:
 
-o	Data is submitted by surveyors via the Android app using Start Form and End Form.
+    o	Data is submitted by surveyors via the Android app using Start Form and End Form.
 
-	Start Form: Project name, drone ID, battery ID, and start voltage.
+2.	Report Generation:
 
-	End Form: End voltage, total flight time, and total flight area.
-
-2.	Data Processing:
-
-o	The admin panel aggregates and organizes data from multiple flights, drones, and projects.
-
-3.	Report Generation:
-
-o	Admins can create custom reports filtered by specific criteria (date, project, drone, etc.).
-
-o	Reports are available in downloadable formats for sharing and analysis.
+    o	Admins can create custom reports filtered by specific criteria (date, project, drone, etc.).
+    
 ________________________________________
 🛠️ Technologies Used
 
